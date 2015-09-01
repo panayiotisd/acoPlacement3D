@@ -15,7 +15,7 @@ Panayiotis Danassis. ACO-Placement3D, Version 1.0. Available from
 
 The software is licensed under the MIT License:
 
-Copyright (c) 2015 Panayiotis Danassis (<panos_dan@hotmail.com>)
+Copyright (c) 2015 Panayiotis Danassis
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -38,8 +38,8 @@ THE SOFTWARE.
 Authors
 --------
 
-This software was developed by [Panayiotis Danassis](http://panosd.eu) (e-mail: <panos_dan@hotmail.com>)
-with the valuable contribution of [Kostas Siozios](http://proteas.microlab.ntua.gr/ksiop/) (e-mail: <ksiop@microlab.ntua.gr>)
+This software was developed by [Panayiotis Danassis](http://panosd.eu)
+with the valuable contribution of [Kostas Siozios](http://proteas.microlab.ntua.gr/ksiop/)
 
 Manifest
 --------
@@ -322,4 +322,4 @@ Contribute
 Support
 -------
 
-If you are having issues, contact us at: <panos_dan@hotmail.com>
+If you are having issues, contact us at:
