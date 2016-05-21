@@ -10,8 +10,9 @@ Copyright & Licensing
 If you use ACO-Placement3D in your research, I would appreciate a citation in your
 publication(s). Please cite it as:  
 
-Panayiotis Danassis. ACO-Placement3D, Version 1.0. Available from
-<http://FIXME>, 2015.
+P. Danassis; K. Siozios; D. Soudris, "ANT3D: Simultaneous Partitioning and Placement for 3-D FPGAs based on Ant Colony Optimization," in IEEE Embedded Systems Letters
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7403901&isnumber=5170179
+
 
 The software is licensed under the MIT License:
 
